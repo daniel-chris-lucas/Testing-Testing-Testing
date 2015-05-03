@@ -22,6 +22,10 @@ Build a class using BDD with PHPSpec.
 
 Use TDD with PHPSpec to implement sanitizer functionality from scratch.
 
+### Testing Email
+
+Unit test emails using PHPUnit and Mailcatcher.
+
 ### Unit Testing Facades
 
 Remove facades and reference the underlying classes to properly unit test a controller.
